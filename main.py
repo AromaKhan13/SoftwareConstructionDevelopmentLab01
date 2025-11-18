@@ -1,1 +1,1 @@
-'print("This line is from the master branch.")' 
+'print("Conflict resolved: Both features integrated.")' 
